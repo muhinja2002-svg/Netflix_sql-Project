@@ -59,5 +59,5 @@ The following structure was used for the primary table:
 ### Running the Project
 
 1.  **Database Setup:** Create a new database in your preferred SQL environment (e.g., PostgreSQL, SQL Server).
-2.  **Schema and Data Loading:** Execute the `solutions netflix.sql` file.The file first includes the `DROP TABLE` and `CREATE TABLE` commands to set up the schema, followed by the SQL necessary to answer the business questions[cite: 1].
-3.  [cite_start]**Run Queries:** Review and execute the 15 distinct business problem solutions found in the SQL file to retrieve the analytical results[cite: 1].
+2.  **Schema and Data Loading:** Execute the `solutions netflix.sql` file.The file first includes the `DROP TABLE` and `CREATE TABLE` commands to set up the schema, followed by the SQL necessary to answer the business questions.
+3. **Run Queries:** Review and execute the 15 distinct business problem solutions found in the SQL file to retrieve the analytical results.
